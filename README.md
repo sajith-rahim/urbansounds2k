@@ -25,7 +25,7 @@ File: `urbansounds2k.csv`
 
 | class | class | count | sample |
 |-------|-------|-------|--------|
-|   0    |  air_conditioner     |   200    |     .   |
+|   0    |  air_conditioner     |   200    |     <audio src="https://raw.githubusercontent.com/sajith-rahim/urbansounds2k/main/samples/air_conditioner.mp3" controls></audio>   |
 |   1    |    car_horn   |    200   |    .    |
 |   2   |    children_playing   |    200   |        |
 |   3   |    dog_bark   |    200   |        |
