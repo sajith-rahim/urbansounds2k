@@ -16,8 +16,8 @@ This dataset contains 2000 labeled sound excerpts (<=4s) of urban sounds from 10
 children_playing, dog_bark, drilling, engine_idling, gun_shot, jackhammer, siren, and street_music. This was extracted from <a href="https://urbansounddataset.weebly.com/urbansound8k.html" target="_blank">UrbanSounds8k</a> dataset as a stratified subset of each class with 200 samples per class.
 
 #### Download
-<a href="https://github.com/sajith-rahim/urbansounds2k/raw/main/urbansounds2k.zip" target="_blank">Link::r2hr::urbansounds2k</a>
-<!--a href="https://r2hr-my.sharepoint.com/:u:/g/personal/sr250070_r2hr_onmicrosoft_com/EaEYL0-emr9EockkdrV6jmMBh1-D-2PVxAU4aAUOkGnkyA?e=HLq9mX&download=1" target="_blank">Link::urbansounds8k</a-->
+<!--a href="https://github.com/sajith-rahim/urbansounds2k/raw/main/urbansounds2k.zip" target="_blank">Link::r2hr::urbansounds2k</a-->
+<a href="https://r2hr-my.sharepoint.com/:u:/g/personal/sr250070_r2hr_onmicrosoft_com/EaEYL0-emr9EockkdrV6jmMBh1-D-2PVxAU4aAUOkGnkyA?e=HLq9mX&download=1" target="_blank">Link::urbansounds8k</a>
 #### Directory Structure
 urbansounds2k
 <br>├───air_conditioner 
